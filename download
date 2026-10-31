@@ -1,0 +1,6 @@
+# SAP exports and local files
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
